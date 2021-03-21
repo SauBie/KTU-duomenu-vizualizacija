@@ -29,7 +29,7 @@ Atsakymas:
 ![apdraustieji](img/3uzduotis.png)
 
 Išvados:
-Stulpelinėje diagramoje (mažėjimo tvarka) vaizduojamas, 5-kių didžiausių, pagal vidutinį darbo užmokestį, įmonių, maksimalus apdraustų darbuotojų skaičius per 2020 metus.
+Stulpelinėje diagramoje (mažėjimo tvarka) vaizduojamas, 5-kių didžiausių, pagal vidutinį darbo užmokestį,variklinių transporto priemonių atsarginių dalių ir pagalbinių reikmenų mažmeninės prekybos įmonių, maksimalus apdraustų darbuotojų skaičius per 2020 metus.
 
 ### 4. Užduotis
 
